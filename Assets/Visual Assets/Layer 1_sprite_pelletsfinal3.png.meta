@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Layer 1_sprite_pelletsfinal3_0: -6839113273839282929
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
