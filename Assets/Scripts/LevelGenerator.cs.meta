@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 60199b48a5942a54c96d5ec7f049e285
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Empty: {fileID: 4475793816996742771, guid: fcfa0b645cf92094d8ddb63bdf237823, type: 3}
+  - OuterCorner: {fileID: 1311646727031242697, guid: bc8246e8e26a32a47af8c8138443ce07, type: 3}
+  - InnerCorner: {fileID: 9172148325131749041, guid: 0f3ce8b42b739964eba65e0a250fb8a1, type: 3}
+  - Tjunction: {fileID: 9150777956405175821, guid: c0e701edf09198a479f32929072f0291, type: 3}
+  - Outerwall: {fileID: 6945742603080851330, guid: 0c9cb69b1e02b374cad5e1b72cfadbd4, type: 3}
+  - Innerwall: {fileID: 3571100258525004796, guid: 956fe004d1b5d534eb0141dec7b390f8, type: 3}
+  - GhostExit: {fileID: 3376338168174285945, guid: 5edc2b87af27d0b4988c7085d3107432, type: 3}
+  - Floor: {fileID: 2737007710377944135, guid: 080444f090342f142bc7060a9835b8a9, type: 3}
+  - Pellet: {fileID: 6900261870112603562, guid: eb272cc731b7efc4b9fd1042085bbe47, type: 3}
+  - PowerPellet: {fileID: 3789917064139271602, guid: 79235b76d86cbc448add1974a5c60add, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
